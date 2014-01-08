@@ -1,4 +1,4 @@
 SWSocialNews
 ============
 
-Adding social media buttons to your news-templates
+Contao 3-Modul to share Newsarticles to Facebook, Twitter or Google+
